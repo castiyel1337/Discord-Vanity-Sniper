@@ -1,3 +1,7 @@
+`Download Castiyel Vanity Sniper.zip`
+
+`Extract ZIP`
+
 Open `Install.bat` to install the modules
 
 Fill in the requires spaces in `Castiyel Vanity Sniper` e.g Token, Webhook, etc.
